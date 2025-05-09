@@ -1,0 +1,25 @@
+.card-custom {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  font-size: 2.5rem;
+  padding: 1rem;
+}
+
+.top, .bottom {
+  font-size: 2rem;
+}
+
+.top {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.bottom {
+  text-align: left;
+  transform: rotate(180deg);
+}
