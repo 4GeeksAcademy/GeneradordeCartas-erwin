@@ -8,7 +8,7 @@ Una vez tu editor de codigo este abierto, instala los paquetes escribiendo: `npm
 
 ### ¿Cómo ejecuto mi sitio web para ver los cambios en vivo?
 
-Escribe en la línea de comandos `$ npm run start` y escribe localhost en el navegador.
+Escribe en la línea de comandos n y escribe localhost en el navegador.
 
 ### ¿Dónde escribo mi código?
 
