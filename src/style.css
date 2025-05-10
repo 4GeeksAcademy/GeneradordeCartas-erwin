@@ -1,5 +1,28 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+.card-custom {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  font-size: 2.5rem;
+  padding: 1rem;
+}
 
-body{
-    background: white;
+.top, .bottom {
+  font-size: 2rem;
+}
+
+.top {
+  text-align: left;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  height: 100%;
+}
+
+.bottom {
+  text-align: left;
+  transform: rotate(180deg);
 }
